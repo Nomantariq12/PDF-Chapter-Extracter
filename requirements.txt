@@ -1,0 +1,6 @@
+streamlit
+pypdf
+PyMuPDF
+pandas
+pywebview
+pyinstaller
